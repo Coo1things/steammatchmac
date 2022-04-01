@@ -1,0 +1,2 @@
+# steammatchmac
+解决mac上steam将一个xbox手柄被识别成多个的问题
